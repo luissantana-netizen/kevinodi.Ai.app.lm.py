@@ -100,6 +100,19 @@ html_app = """
                 <span id="apiText" class="text-gray-300">Motor Odi AI Listo</span>
             </div>
         </div>
+<!-- BANNER ADSENSE ODI AI -->
+<div style="margin-top: 20px; padding: 10px; text-align: center;">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2829063535565810" crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-2829063535565810"
+         data-ad-slot="5529007236"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>        
     </aside>
 
     <main class="flex-1 bg-stealth-900 relative overflow-hidden flex flex-col">
